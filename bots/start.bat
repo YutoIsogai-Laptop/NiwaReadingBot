@@ -1,0 +1,1 @@
+java -jar Discord-ChatReadBot-1.8.0.jar
